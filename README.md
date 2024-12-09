@@ -13,7 +13,6 @@
 * ポストプロセスマテリアルだけでゲームボーイのような見た目を実現させています。
 * PPMI_RetroLooks2の`ResolutionX`,`ResolutionY`を調整することで解像度を、`Saturation`を調整することで彩度を、`Color`を調整することで色合いを変更することができます。
 
-## 説明
 **L_RetroLooks_PPCLG**
 * ポストプロセスのカラーグレーディングを使用したポストプロセスが適応されています。
 * PPMI_Retro_Looks1の`ResolutionX`,`ResolutionY`を調整することで、解像度を変更することができます。
